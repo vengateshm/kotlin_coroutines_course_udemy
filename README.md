@@ -1,2 +1,2 @@
-# kotlin_coroutines_course_udemy
+# Kotlin Coroutines Course Udemy
 This project contains source code of Kotlin Coroutines course in udemy

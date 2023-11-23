@@ -29,6 +29,8 @@
         <activity
             android:name=".coroutines_with_room.view.CoroutinesWithRoomActivity"
             android:exported="true" />
+        <activity android:name=".flow_news_ticker.view.NewsTickerActivity"
+            android:exported="true"/>
     </application>
 
 </manifest>

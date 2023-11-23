@@ -26,6 +26,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".coroutines_with_room.view.CoroutinesWithRoomActivity"
+            android:exported="true" />
     </application>
 
 </manifest>
